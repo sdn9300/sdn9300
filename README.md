@@ -175,7 +175,7 @@ But insight alone is a passive art. To truly honor the story, one must move from
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
@@ -239,6 +239,11 @@ But insight alone is a passive art. To truly honor the story, one must move from
   <!-- METRICS + GRADE -->
   <img src="https://github-readme-stats.vercel.app/api?username=sdn9300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="75%" alt="GitHub Stats" />
 </p>
+
+<br/>
+
+
+---
 
 <p align="center">
   <!-- TOP LANGUAGES -->
