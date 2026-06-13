@@ -155,7 +155,7 @@ But insight alone is a passive art. To truly honor the story, one must move from
 
 <!-- LANGUAGES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript&perline=2" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=2" />
 </p>
 
 <!-- FRAMEWORKS & RUNTIME -->
