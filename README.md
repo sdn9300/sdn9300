@@ -69,7 +69,7 @@
   working hands-on with Python, SQL, Machine Learning, and Generative AI systems.
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sdn9300&theme=tokyonight" alt="WakaTime Stats"/>
+  <a href="https://wakatime.com/@sdn9300"><img src="https://wakatime.com/badge/user/48a58a69-6ea0-4dbf-8321-72f10f443b74.svg" alt="wakatime"/></a>
 </p>
 
 <p align="center">
