@@ -221,7 +221,7 @@ But insight alone is a passive art. To truly honor the story, one must move from
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sdn9300/sdn9300/output/github-snake.svg" alt="GitHub Contribution Grid Snake" />
+  <img src="https://raw.githubusercontent.com/sdn9300/sdn9300/main/github-snake.svg" alt="GitHub Contribution Grid Snake" />
 </p>
 
 <p align="center">
