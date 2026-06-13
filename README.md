@@ -72,6 +72,9 @@
   <a href="https://wakatime.com/@sdn9300"><img src="https://wakatime.com/badge/user/48a58a69-6ea0-4dbf-8321-72f10f443b74.svg" alt="wakatime"/></a>
 </p>
 
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
 <p align="center">
   <em>My background in academic writing and language analysis gives me a unique edge:<br/>
   translating complex model outputs into clear, compelling narratives that stakeholders understand.</em>
