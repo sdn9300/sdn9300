@@ -1,0 +1,267 @@
+<!-- ═══════════════════════════════════════════ -->
+<!--              WAVE HEADER BANNER               -->
+<!-- ═══════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Soumyadeep+Nath&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data+Scientist+%7C+AI+Builder+%7C+Full-Stack+AI&descAlignY=57&descAlign=50" width="100%" />
+</p>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--           ANIMATED TYPING TAGLINE            -->
+<!-- ═══════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Scientist;Generative+AI+Builder;Full-Stack+AI+Engineer;Translating+complex+models+into+stories+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--               FOLLOWERS BADGE               -->
+<!-- ═══════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/github/followers/sdn9300?label=Followers&style=social" alt="Followers" />
+</p>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--           SOCIAL CONNECTIONS                 -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h1 align="center" style="font-size: 2.5em;">Hi, I am Soumyadeep 👋</h1>
+
+<h3 align="center">📬 Connect with me</h3>
+
+<p align="center">
+  <a href="mailto:soumyadeep9300@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/soumyadeep-nath-941780250" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://x.com/sdn_soumyadeep" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  &nbsp;
+  <a href="https://www.kaggle.com/soumyadeep9300" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  &nbsp;
+  <a href="https://sdn9300.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--                 ABOUT ME                     -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 👋 About Me
+
+<p align="center">
+  <strong>Data Scientist & AI Builder</strong> transitioning deliberately <strong>from Literature to Data</strong>.<br/>
+  Currently completing an Executive PG Programme in Data Science & AI at <strong>IIT Roorkee</strong>,<br/>
+  working hands-on with Python, SQL, Machine Learning, and Generative AI systems.
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sdn9300&theme=tokyonight" alt="WakaTime Stats"/>
+</p>
+
+<p align="center">
+  <em>My background in academic writing and language analysis gives me a unique edge:<br/>
+  translating complex model outputs into clear, compelling narratives that stakeholders understand.</em>
+</p>
+
+---
+
+<table align="center">
+  <tr>
+    <td>🔭 Currently building</td>
+    <td><strong>Overture — A Smart Cold Email Outreach Agent</strong></td>
+  </tr>
+  <tr>
+    <td>🌱 Currently exploring</td>
+    <td><strong>AI Engineering, Multi-agent Workflows & Advanced RAG Pipelines</strong></td>
+  </tr>
+  <tr>
+    <td>🤝 Open to</td>
+    <td><strong>Collaborations, Freelancing & Full-Time Roles (Onsite & Remote)</strong></td>
+  </tr>
+  <tr>
+    <td>📍 Based in</td>
+    <td><strong>Kolkata, India 🇮🇳</strong></td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              MY PHILOSOPHY                    -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 📜 The Philosophy: From Reader to Author
+
+<p align="center">
+  <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong>
+</p>
+
+<br/>
+
+For years, my world was bound by narrative. As a student of literature, I learned to read between the lines, decode hidden patterns, and critique the worlds others had built. When I transitioned into Data Science, I realized data is simply the newest form of human prose—a vast, sprawling epic waiting for an editor.
+
+But insight alone is a passive art. To truly honor the story, one must move from reading the world to **writing it**. As a Full-Stack AI Engineer, my philosophy bridges the lyrical discovery of data with the architectural poetry of engineering. I don't just want to predict the next chapter; I want to **build the press it's printed on**.
+
+<br/>
+
+### 🌌 Epiphany into Embodiment
+
+> A predictive model left inside a Jupyter Notebook is like a brilliant manuscript locked in a drawer—beautiful, but inert. I believe true AI must be **incarnated**. Algorithms belong in the living, breathing ecosystem of production pipelines, where they can actively converse with reality.
+
+### 🏛️ The Architecture of the Imagination
+
+> Behind every sublime piece of mathematics lies a scaffolding that must hold its weight. Just as a grand gothic cathedral relies on precise engineering to suspend its breathtaking spires, beautiful AI requires **robust, scalable, and elegant infrastructure**. Systems thinking is the grammar that turns a chaotic vocabulary of data into a coherent, enduring structure.
+
+### ⚙️ Pragmatic Craftsmanship
+
+> Innovation is not a solitary fever-dream; it is a disciplined, deliberate craft. Just as a master novelist transforms raw, chaotic human experiences into a tightly plotted masterpiece, I approach AI development with rigorous editing and structured intent. I engineer systems that are grounded by the empirical truths of data, yet driven by the creative impulse to build—systems that are **intelligent by design**, **flawless in execution**, and **resilient in the wild**.
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--           TECH STACK ICON GRID               -->
+<!-- ═══════════════════════════════════════════ -->
+
+## </> My Tech Stack ⚙️
+
+<br/>
+
+<!-- LANGUAGES -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript&perline=2" />
+</p>
+
+<!-- FRAMEWORKS & RUNTIME -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" />
+</p>
+
+<!-- TOOLS & PLATFORMS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" />
+</p>
+
+<!-- DATA SCIENCE & AI BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--            FEATURED PROJECTS                 -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 🚀 Featured Projects
+
+<br/>
+
+### 🌟 [AlignResume](https://align-resume-beta.vercel.app/) — AI-Powered Resume Optimization Platform
+
+> *Architected and deployed an end-to-end full-stack AI web application.*
+
+- 🧠 Deployed a **structured JSON prompt pipeline** over the **Groq API (LLaMA 3.3 70B)** using **Zod schema validation** for deterministic outputs
+- 🛡️ Developed a **truthfulness guardrail layer** validating rewritten bullets against original resume records to block hallucinations
+- ⚙️ Built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Playwright** (headless PDF exports), and **Vercel**
+- 📂 [GitHub Repository](https://github.com/sdn9300/align-resume) &nbsp;|&nbsp; 🔗 [Live App](https://align-resume-beta.vercel.app/)
+
+<br/>
+
+### 📈 [Future Fit](https://skilltrendanalysis-rf3zefgsjaa4l9f8pu2prb.streamlit.app/) — Skill Trend Intelligence Platform
+
+> *Built an end-to-end Time Series and NLP analysis platform parsing 220,000+ skill mentions.*
+
+- 📊 Implemented **Market Basket Analysis (Apriori)** to map skill co-occurrence and association rules
+- 🔮 Engineered a yearly forecasting model with **Prophet** to project demand shares
+- 🤖 Deployed a **Streamlit dashboard** featuring interactive Plotly visualizations and a **Groq LLM-powered Skill Gap Advisor**
+- 📂 [GitHub Repository](https://github.com/sdn9300/Future-Fit-AI-Powered-Skill-Trend-Analysis) &nbsp;|&nbsp; 🔗 [Live Dashboard](https://skilltrendanalysis-rf3zefgsjaa4l9f8pu2prb.streamlit.app/)
+
+<br/>
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              GITHUB STATS                    -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <!-- STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sdn9300&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- METRICS + GRADE -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sdn9300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="75%" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <!-- TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdn9300&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=html,css" width="75%" alt="Top Languages" />
+</p>
+
+<br/>
+
+
+---
+
+<!-- ═══════════════════════════════════════════ -->
+<!--           CERTIFICATIONS                     -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 🎓 Certifications
+
+<details>
+<summary>▼ Click to view my professional credentials and certifications</summary>
+
+<br/>
+
+| Certification | Issuer | Completed |
+| :--- | :--- | :--- |
+| **Machine Learning: Statistical Foundations** | LinkedIn Learning × Wolfram Research | Mar 2026 |
+| **Anaconda Python for Data Science Professional** | LinkedIn Learning × Anaconda | Mar 2026 |
+| **Career Essentials in Generative AI** | LinkedIn Learning × Microsoft | Mar 2026 |
+
+</details>
+
+<br/>
+
+
+
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              WAVE FOOTER BANNER              -->
+<!-- ═══════════════════════════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
