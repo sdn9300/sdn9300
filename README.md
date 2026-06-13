@@ -218,6 +218,10 @@ But insight alone is a passive art. To truly honor the story, one must move from
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/sdn9300/sdn9300/output/github-snake.svg" alt="GitHub Contribution Grid Snake" />
+</p>
+
+<p align="center">
   <!-- STREAK STATS -->
   <img src="https://github-readme-streak-stats.herokuapp.com?user=sdn9300&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="GitHub Streak Stats" />
 </p>
