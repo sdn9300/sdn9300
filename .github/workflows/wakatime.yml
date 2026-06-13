@@ -9,6 +9,8 @@ jobs:
   update-readme:
     name: Update Readme with WakaTime Stats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -16,7 +18,7 @@ jobs:
       - name: Update WakaTime Stats
         uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIMEPAIKEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: █
