@@ -2,39 +2,25 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # Runs daily at midnight UTC
-  workflow_dispatch:      # Allows manual trigger
+    - cron: '0 0 * * *'   # Daily at midnight UTC
+  workflow_dispatch:        # Manual trigger from Actions tab
 
 jobs:
   update-readme:
-    name: Update Readme with WakaTime Stats
+    name: Update README with WakaTime Stats
     runs-on: ubuntu-latest
     permissions:
-      contents: write
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      contents: write       # Required for pushing commits
 
+    steps:
       - name: Update WakaTime Stats
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}   # ← THE KEY FIX
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: █
+          BLOCKS: █░
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: false
-      - name: Commit & push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          if ! git diff --cached --quiet; then
-            git commit -m "Update WakaTime stats"
-            git push origin ${{ github.ref }}
-          else
-            echo "No changes"
-          fi
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
