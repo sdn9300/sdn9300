@@ -18,10 +18,23 @@ jobs:
       - name: Update WakaTime Stats
         uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIMEPAIKEY }}
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           SECTION_NAME: waka
           BLOCKS: █
           TIME_RANGE: last_7_days
           SHOW_TIME: true
           SHOW_MASKED_TIME: false
+      - name: Commit & push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            git commit -m "Update WakaTime stats"
+            git push origin ${{ github.ref }}
+          else
+            echo "No changes"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

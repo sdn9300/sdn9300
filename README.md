@@ -247,7 +247,7 @@ But insight alone is a passive art. To truly honor the story, one must move from
 
 <p align="center">
   <!-- TOP LANGUAGES -->
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdn9300&theme=tokyonight&hide_border=true&layout=compact&langs_count=4" width="75%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdn9300&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" width="75%" alt="Top Languages" />
 </p>
 
 <br/>
