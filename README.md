@@ -153,91 +153,71 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <br/>
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--   ROW 1 — Languages & Frameworks  →  scrolls LEFT     -->
-<!-- ══════════════════════════════════════════════════════ -->
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=python"     width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=typescript" width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=javascript" width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=html"       width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=nextjs"     width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=react"      width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=tailwind"   width="48" hspace="12" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=python"     width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=typescript" width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=javascript" width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=html"       width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=nextjs"     width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=react"      width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=tailwind"   width="48" hspace="12" />
-  </marquee>
-</p>
+<table align="center">
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--   ROW 2 — Tools & Data Science  →  scrolls RIGHT      -->
-<!-- ══════════════════════════════════════════════════════ -->
-<p align="center">
-  <marquee behavior="scroll" direction="right" scrollamount="6">
-    <img src="https://skillicons.dev/icons?i=git"        width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=github"     width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=vercel"     width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=playwright" width="48" hspace="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"   width="48" hspace="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" hspace="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="48" hspace="12" />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=git"        width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=github"     width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=vercel"     width="48" hspace="12" />
-    <img src="https://skillicons.dev/icons?i=playwright" width="48" hspace="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"   width="48" hspace="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" hspace="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="48" hspace="12" />
-  </marquee>
-</p>
+  <tr>
 
-<!-- ══════════════════════════════════════════════════════ -->
-<!--   DATA SCIENCE & AI BADGES  →  static row             -->
-<!--   (tools with no clean SVG icon — kept as badges)     -->
-<!-- ══════════════════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+    <!-- Languages -->
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <b>🐍 Languages</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=2" />
+      <br/><br/>
+    </td>
 
-<!-- FRAMEWORKS & RUNTIME -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" />
-</p>
+    <!-- Frameworks -->
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <b>🚀 Frameworks & Runtime</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" />
+      <br/><br/>
+    </td>
 
-<!-- TOOLS & PLATFORMS -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" />
-</p>
+    <!-- Tools -->
+    <td align="center" valign="top" width="33%">
+      <br/>
+      <b>🛠️ Tools & Platforms</b>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" />
+      <br/>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+      <br/><br/>
+    </td>
 
-<!-- DATA SCIENCE & AI BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+  </tr>
+
+  <tr>
+
+    <!-- Data Science -->
+    <td align="center" valign="top" colspan="2">
+      <br/>
+      <b>🔬 Data Science & Machine Learning</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+      <br/><br/>
+    </td>
+
+    <!-- Generative AI -->
+    <td align="center" valign="top">
+      <br/>
+      <b>🤖 Generative AI & LLM</b>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Zod-3068B2?style=for-the-badge" />
+      <br/><br/>
+    </td>
+
+  </tr>
+
+</table>
 
 <br/>
 
