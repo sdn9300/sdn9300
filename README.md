@@ -2,14 +2,14 @@
 <!--              WAVE HEADER BANNER               -->
 <!-- ═══════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Soumyadeep+Nath&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data+Scientist+%7C+Data+Analyst+%7C+Full-Stack+AI+Engineer &descAlignY=57&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Soumyadeep+Nath&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Data+Scientist+%7C+Data+Analyst+%7C+Full-Stack+AI+Engineer&descAlignY=57&descAlign=50" width="100%" />
 </p>
 
 <!-- ═══════════════════════════════════════════ -->
 <!--           ANIMATED TYPING TAGLINE            -->
 <!-- ═══════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Scientist;Data+Analyst;AI+Enthusiast;Always+building+and+learning; Full-Stack+AI+Engineer;Translating+complex+models+into+stories+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Scientist;Data+Analyst;AI+Enthusiast;Always+building+and+learning;Full-Stack+AI+Engineer;Translating+complex+models+into+stories+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- ═══════════════════════════════════════════ -->
