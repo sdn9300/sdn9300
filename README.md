@@ -157,43 +157,41 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
   <tr>
 
-    <!-- Languages -->
+    <!-- ══ LANGUAGES ══ -->
     <td align="center" valign="top" width="33%">
       <br/>
       <b>🐍 Languages</b>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=2" />
-      <br/><br/>
+      <br/>
     </td>
 
-    <!-- Frameworks -->
+    <!-- ══ FRAMEWORKS ══ -->
     <td align="center" valign="top" width="33%">
       <br/>
       <b>🚀 Frameworks & Runtime</b>
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" />
-      <br/><br/>
+      <br/>
     </td>
 
-    <!-- Tools -->
+    <!-- ══ TOOLS ══ -->
     <td align="center" valign="top" width="33%">
       <br/>
       <b>🛠️ Tools & Platforms</b>
       <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" />
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,playwright&perline=2" />
       <br/>
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
-      <br/><br/>
     </td>
 
   </tr>
 
   <tr>
 
-    <!-- Data Science -->
+    <!-- ══ DATA SCIENCE & ML ══ -->
     <td align="center" valign="top" colspan="2">
       <br/>
-      <b>🔬 Data Science & Machine Learning</b>
+      <b>🔬 Data Science & ML</b>
       <br/><br/>
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -203,15 +201,16 @@ However, **analysis alone is passive**. To maximize its value, we must move from
       <br/><br/>
     </td>
 
-    <!-- Generative AI -->
+    <!-- ══ GENERATIVE AI ══ -->
     <td align="center" valign="top">
       <br/>
       <b>🤖 Generative AI & LLM</b>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/Zod-3068B2?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+      <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
+      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
+      <img src="https://img.shields.io/badge/Zod-3068B2?style=for-the-badge&logo=zod&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
       <br/><br/>
     </td>
 
@@ -220,7 +219,6 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 </table>
 
 <br/>
-
 ---
 
 <!-- ═══════════════════════════════════════════ -->
