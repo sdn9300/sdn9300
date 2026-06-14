@@ -135,7 +135,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 ### ​🏗️ Systems Thinking
 
-> ​Elegant mathematics must be supported by **reliable infrastructure**. Just as a complex thesis requires logical scaffolding, **sophisticated AI requires scalable, high-performance systems**. I view systems thinking as the **structural framework that turns raw data models into dependable enterprise applications**.
+> ​Building accurate models is only part of the challenge. Real-world AI creates value when it is supported by **reliable infrastructure, robust evaluation, and scalable workflows**. I view systems thinking as the discipline that transforms data science experiments into dependable enterprise applications.
 
 ### ⚙️ Pragmatic Innovation
 
