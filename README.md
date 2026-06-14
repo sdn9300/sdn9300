@@ -115,7 +115,7 @@ No activity tracked
 <!--              MY PHILOSOPHY                    -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 📜 The Philosophy: From Reader to Author
+## 📜 Core Philosophy 
 
 <p align="center">
   <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong>
@@ -123,9 +123,9 @@ No activity tracked
 
 <br/>
 
-​My background in literature trained me to analyze **complex narratives, decode underlying patterns, and critique established structures**. When I **transitioned into Data Science**, I recognized that **data is simply another medium for mapping human behavior**—a dense narrative requiring precise interpretation.
+​My background in literature trained me to analyze complex narratives, decode underlying patterns, and critique established structures. When I **transitioned into Data Science**, I recognized that **data is simply another medium for mapping human behavior**—a dense narrative requiring precise interpretation.
 
-However, **analysis alone is passive**. To maximize its value, we must move from **interpreting data to building the systems that operationalize it.** As a ""Full-Stack AI Engineer"", my philosophy centers on **bridging data discovery with robust software architecture**. I don't just want to **forecast outcomes; I want to engineer the infrastructure that drives them.**
+However, **analysis alone is passive**. To maximize its value, we must move from **interpreting data to building the systems that operationalize it.** As a **Full-Stack AI Engineer**, my philosophy centers on **bridging data discovery with robust software architecture**. I don't just want to **forecast outcomes; I want to engineer the infrastructure that drives them.**
 
 <br/>
 
