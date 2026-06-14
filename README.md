@@ -153,72 +153,38 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <br/>
 
-<table align="center">
+<!-- LANGUAGES -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=2" />
+</p>
 
-  <tr>
+<!-- FRAMEWORKS & RUNTIME -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" />
+</p>
 
-    <!-- ══ LANGUAGES ══ -->
-    <td align="center" valign="top" width="33%">
-      <br/>
-      <b>🐍 Languages</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=2" />
-      <br/>
-    </td>
+<!-- TOOLS & PLATFORMS -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" />
+</p>
 
-    <!-- ══ FRAMEWORKS ══ -->
-    <td align="center" valign="top" width="33%">
-      <br/>
-      <b>🚀 Frameworks & Runtime</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" />
-      <br/>
-    </td>
-
-    <!-- ══ TOOLS ══ -->
-    <td align="center" valign="top" width="33%">
-      <br/>
-      <b>🛠️ Tools & Platforms</b>
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,playwright&perline=2" />
-      <br/>
-    </td>
-
-  </tr>
-
-  <tr>
-
-    <!-- ══ DATA SCIENCE & ML ══ -->
-    <td align="center" valign="top" colspan="2">
-      <br/>
-      <b>🔬 Data Science & ML</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-      <br/><br/>
-    </td>
-
-    <!-- ══ GENERATIVE AI ══ -->
-    <td align="center" valign="top">
-      <br/>
-      <b>🤖 Generative AI & LLM</b>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Groq_API-F55036?style=for-the-badge&logo=groq&logoColor=white" />
-      <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" />
-      <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-      <img src="https://img.shields.io/badge/Zod-3068B2?style=for-the-badge&logo=zod&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <br/><br/>
-    </td>
-
-  </tr>
-
-</table>
-
+<!-- DATA SCIENCE & AI BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
 <br/>
+
 ---
 
 <!-- ═══════════════════════════════════════════ -->
