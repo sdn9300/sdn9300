@@ -153,9 +153,64 @@ But insight alone is a passive art. To truly honor the story, one must move from
 
 <br/>
 
-<!-- LANGUAGES -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!--   ROW 1 — Languages & Frameworks  →  scrolls LEFT     -->
+<!-- ══════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=2" />
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=python"     width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=javascript" width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=html"       width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=nextjs"     width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=react"      width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=tailwind"   width="48" hspace="12" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python"     width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=typescript" width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=javascript" width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=html"       width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=nextjs"     width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=react"      width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=tailwind"   width="48" hspace="12" />
+  </marquee>
+</p>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!--   ROW 2 — Tools & Data Science  →  scrolls RIGHT      -->
+<!-- ══════════════════════════════════════════════════════ -->
+<p align="center">
+  <marquee behavior="scroll" direction="right" scrollamount="6">
+    <img src="https://skillicons.dev/icons?i=git"        width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=github"     width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=vercel"     width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=playwright" width="48" hspace="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"   width="48" hspace="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" hspace="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="48" hspace="12" />
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git"        width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=github"     width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=vercel"     width="48" hspace="12" />
+    <img src="https://skillicons.dev/icons?i=playwright" width="48" hspace="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"   width="48" hspace="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" hspace="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="48" hspace="12" />
+  </marquee>
+</p>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!--   DATA SCIENCE & AI BADGES  →  static row             -->
+<!--   (tools with no clean SVG icon — kept as badges)     -->
+<!-- ══════════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
 <!-- FRAMEWORKS & RUNTIME -->
