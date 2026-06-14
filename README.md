@@ -9,7 +9,7 @@
 <!--           ANIMATED TYPING TAGLINE            -->
 <!-- ═══════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Scientist;Generative+AI+Builder;Full-Stack+AI+Engineer;Translating+complex+models+into+stories+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Scientist;Data+Analyst;Full-Stack+AI+Engineer;Translating+complex+models+into+stories+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <!-- ═══════════════════════════════════════════ -->
