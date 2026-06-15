@@ -12,16 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Scientist;Data+Analyst;AI+Enthusiast;Always+building+and+learning;Full-Stack+AI+Engineer;Translating+complex+models+into+stories+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--               FOLLOWERS BADGE               -->
-<!-- ═══════════════════════════════════════════ -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/sdn9300?label=Followers&style=social" alt="Followers" />
-</p>
-
-<br/>
-
----
 
 <!-- ═══════════════════════════════════════════ -->
 <!--           SOCIAL CONNECTIONS                 -->
@@ -204,41 +194,6 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 📂 [GitHub Repository](https://github.com/sdn9300/Future-Fit-AI-Powered-Skill-Trend-Analysis) &nbsp;|&nbsp; 🔗 [Live Dashboard](https://skilltrendanalysis-rf3zefgsjaa4l9f8pu2prb.streamlit.app/)
 
 <br/>
-
----
-
-<!-- ═══════════════════════════════════════════ -->
-<!--              GITHUB STATS                    -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sdn9300/sdn9300/main/github-snake.svg" alt="GitHub Contribution Grid Snake" />
-</p>
-
-<p align="center">
-  <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sdn9300&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <!-- METRICS + GRADE -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sdn9300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="75%" alt="GitHub Stats" />
-</p>
-
-<br/>
-
-
----
-
-<p align="center">
-  <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdn9300&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook" width="75%" alt="Top Languages" />
-</p>
-
-<br/>
-
 
 ---
 
