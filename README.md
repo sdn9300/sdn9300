@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td>📍 Based in</td>
-    <td><strong>Kolkata, India 🇮🇳</strong></td>
+    <td><strong>Kolkata, India <img src="https://flagcdn.com/20x15/in.png" alt="India Flag" /></strong></td>
   </tr>
 </table>
 
