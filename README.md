@@ -103,7 +103,7 @@
 <!--              MY PHILOSOPHY                    -->
 <!-- ═══════════════════════════════════════════ -->
 
-## 📜 Core Philosophy 
+## 📜 My Philosophy 
 
 <p align="center">
   <em>"The best way to predict the future is to invent it."</em> — <strong>Alan Kay</strong>
