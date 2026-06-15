@@ -68,18 +68,6 @@
   Currently completing an Executive PG Programme in Data Science & AI at <strong>IIT Roorkee</strong>,<br/>
   working hands-on with Python, SQL, Machine Learning, and Generative AI systems.
 </p>
-<p align="center">
-  <a href="https://wakatime.com/@sdn9300"><img src="https://wakatime.com/badge/user/48a58a69-6ea0-4dbf-8321-72f10f443b74.svg" alt="wakatime"/></a>
-</p>
-<!--START_SECTION:waka-->
-
-```txt
-From: 07 June 2026 - To: 14 June 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
 
 <p align="center">
   <em>My background in academic writing and language analysis gives me a unique edge:<br/>
