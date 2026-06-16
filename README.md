@@ -142,7 +142,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <br/>
 
 <!-- LANGUAGES -->
-<h3 align="center">💻 Languages</h3>
+<h2 align="center">💻 Languages</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=4" /><br/>
   <strong>Python &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; HTML</strong>
@@ -151,7 +151,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <br/>
 
 <!-- FRAMEWORKS & RUNTIME -->
-<h3 align="center">🚀 Frameworks & Web Development</h3>
+<h2 align="center">🚀 Frameworks & Web Development</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" /><br/>
   <strong>Next.js &nbsp;•&nbsp; React &nbsp;•&nbsp; Tailwind CSS</strong>
@@ -160,7 +160,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <br/>
 
 <!-- DATA ANALYSIS & ML -->
-<h3 align="center">📊 Data Analysis & Machine Learning</h3>
+<h2 align="center">📊 Data Analysis & Machine Learning</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
@@ -173,7 +173,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <br/>
 
 <!-- AI ENGINEERING & DATABASES -->
-<h3 align="center">🤖 AI Engineering & Databases</h3>
+<h2 align="center">🤖 AI Engineering & Databases</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
@@ -187,7 +187,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <br/>
 
 <!-- TOOLS & PLATFORMS -->
-<h3 align="center">🛠️ Tools & Platforms</h3>
+<h2 align="center">🛠️ Tools & Platforms</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" /><br/>
   <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel</strong>
