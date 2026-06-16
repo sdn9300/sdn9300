@@ -194,7 +194,41 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 </p>
 <br/>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════ -->
+<!--              GITHUB STATS                    -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sdn9300/sdn9300/main/github-snake.svg" alt="GitHub Contribution Grid Snake" />
+</p>
+
+<p align="center">
+  <!-- STREAK STATS -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sdn9300&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <!-- METRICS + GRADE -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sdn9300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="75%" alt="GitHub Stats" />
+</p>
+
+<br/>
+
 ---
+
+<p align="center">
+  <!-- TOP LANGUAGES -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdn9300&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook" width="75%" alt="Top Languages" />
+</p>
+
+<br/>
+
+---
+
 
 <!-- ═══════════════════════════════════════════ -->
 <!--            FEATURED PROJECTS                 -->
