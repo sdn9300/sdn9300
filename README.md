@@ -16,7 +16,7 @@
 <!--               FOLLOWERS BADGE               -->
 <!-- ═══════════════════════════════════════════ -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsdn9300&style=social&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsdn9300&style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
 </p>
 
 <br/>
