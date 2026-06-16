@@ -143,17 +143,20 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <!-- LANGUAGES -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=2" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=4" /><br/>
+  <strong>Python &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; HTML</strong>
 </p>
 
 <!-- FRAMEWORKS & RUNTIME -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" /><br/>
+  <strong>Next.js &nbsp;•&nbsp; React &nbsp;•&nbsp; Tailwind CSS</strong>
 </p>
 
 <!-- TOOLS & PLATFORMS -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" /><br/>
+  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel</strong>
 </p>
 
 <!-- DATA SCIENCE & AI BADGES -->
@@ -162,14 +165,18 @@ However, **analysis alone is passive**. To maximize its value, we must move from
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/>
+  <strong>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; Streamlit</strong>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL</strong>
 </p>
 <br/>
 
