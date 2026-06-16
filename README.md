@@ -12,6 +12,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Data+Scientist;Data+Analyst;AI+Enthusiast;Always+building+and+learning;Full-Stack+AI+Engineer;Translating+complex+models+into+stories+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<!-- ═══════════════════════════════════════════ -->
+<!--               FOLLOWERS BADGE               -->
+<!-- ═══════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsdn9300&style=social&logo=github" alt="Followers" />
+</p>
+
+<br/>
+
+---
 
 <!-- ═══════════════════════════════════════════ -->
 <!--           SOCIAL CONNECTIONS                 -->
