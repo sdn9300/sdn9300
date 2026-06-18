@@ -152,30 +152,47 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- LANGUAGES -->
 <h2 align="center">💻 Languages</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=4" /><br/>
-  <strong>Python &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; HTML</strong>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
+  <strong>Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; TypeScript</strong>
 </p>
 
 <br/>
 
-<!-- FRAMEWORKS & RUNTIME -->
-<h2 align="center">🚀 Frameworks & Web Development</h2>
+<!-- FRAMEWORKS & TOOLS -->
+<h2 align="center">🚀 Frameworks & Tools</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" /><br/>
-  <strong>Next.js &nbsp;•&nbsp; React &nbsp;•&nbsp; Tailwind CSS</strong>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firecrawl-FF5A5F?style=flat-square&logo=firecrawl&logoColor=white" />
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" /><br/>
+  <strong>Next.js &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; Git / GitHub &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; YAML</strong>
 </p>
 
 <br/>
 
-<!-- DATA ANALYSIS & ML -->
-<h2 align="center">📊 Data Analysis & Machine Learning</h2>
+<!-- LIBRARIES -->
+<h2 align="center">📚 Libraries</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/>
-  <strong>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; Streamlit</strong>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prophet-008080?style=flat-square&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/mlxtend-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup4-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/gspread-green?style=flat-square&logo=google-sheets&logoColor=white" /><br/>
+  <strong>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; Matplotlib &nbsp;•&nbsp; Seaborn &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; SciPy &nbsp;•&nbsp; Prophet &nbsp;•&nbsp; mlxtend &nbsp;•&nbsp; Zod &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; gspread</strong>
 </p>
 
 <br/>
@@ -185,20 +202,8 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <p align="center">
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL</strong>
-</p>
-
-<br/>
-
-<!-- TOOLS & PLATFORMS -->
-<h2 align="center">🛠️ Tools & Platforms</h2>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" /><br/>
-  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel</strong>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" /><br/>
+  <strong>Groq API (LLM) &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB</strong>
 </p>
 <br/>
 
@@ -249,22 +254,42 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 ### 🌟 [AlignResume](https://align-resume-beta.vercel.app/) — AI-Powered Resume Optimization Platform
 
 > *Architected and deployed an end-to-end full-stack AI web application.*
+> 
+> **Stack:** Next.js &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Groq API (LLaMA 3.3 70B) &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Vercel
 
-- 🧠 Deployed a **structured JSON prompt pipeline** over the **Groq API (LLaMA 3.3 70B)** using **Zod schema validation** for deterministic outputs
-- 🛡️ Developed a **truthfulness guardrail layer** validating rewritten bullets against original resume records to block hallucinations
-- ⚙️ Built with **Next.js**, **TypeScript**, **Tailwind CSS**, **Playwright** (headless PDF exports), and **Vercel**
+- 🧠 Deployed a **structured JSON prompt pipeline** over the **Groq API (LLaMA 3.3 70B)** using **Zod schema validation** for deterministic, parseable outputs.
+- 🛡️ Developed a **truthfulness guardrail layer** validating rewritten bullets against original resume records to block hallucinations.
+- ⚙️ Engineered **Playwright-based** headless PDF export, rate-limited API proxy (10 runs/hr per IP), and GitHub-Vercel CI/CD auto-deploy.
 - 📂 [GitHub Repository](https://github.com/sdn9300/align-resume) &nbsp;|&nbsp; 🔗 [Live App](https://align-resume-beta.vercel.app/)
 
 <br/>
 
 ### 📈 [Future Fit](https://skilltrendanalysis-rf3zefgsjaa4l9f8pu2prb.streamlit.app/) — Skill Trend Intelligence Platform
 
-> *Built an end-to-end Time Series and NLP analysis platform parsing 220,000+ skill mentions.*
+> *Built an end-to-end Time Series and NLP analysis platform parsing 224,600+ skill mentions.*
+> 
+> **Stack:** Python &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Prophet &nbsp;•&nbsp; mlxtend (Apriori) &nbsp;•&nbsp; SciPy &nbsp;•&nbsp; Groq API (LLaMA 3.3 70B)
 
-- 📊 Implemented **Market Basket Analysis (Apriori)** to map skill co-occurrence and association rules
-- 🔮 Engineered a yearly forecasting model with **Prophet** to project demand shares
-- 🤖 Deployed a **Streamlit dashboard** featuring interactive Plotly visualizations and a **Groq LLM-powered Skill Gap Advisor**
+- 📊 Processed 224,605 skill mentions from 50,000+ global job postings using a taxonomy-driven regex extraction engine.
+- 🧺 Developed a **Market Basket Analysis (Apriori)** engine mapping 230 frequent skill itemsets and extracting association rules (lift ≥0.90, confidence ≥0.38).
+- 🔮 Engineered a tiered yearly forecasting model using **Prophet** to project demand shares into 2027.
+- 🤖 Deployed a 6-panel **Streamlit dashboard** featuring interactive Plotly visualizations and a **Groq LLM-powered Skill Gap Advisor**.
 - 📂 [GitHub Repository](https://github.com/sdn9300/Future-Fit-AI-Powered-Skill-Trend-Analysis) &nbsp;|&nbsp; 🔗 [Live Dashboard](https://skilltrendanalysis-rf3zefgsjaa4l9f8pu2prb.streamlit.app/)
+
+<br/>
+
+### 🔍 [Gleaner](https://github.com/sdn9300/gleaner-job-scout) — Multi-Board Job Scraper & ETL Pipeline
+
+> *Architected and implemented a modular ETL pipeline.*
+> 
+> **Stack:** Python &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML &nbsp;•&nbsp; Git
+
+- 🔄 Architected a modular ETL pipeline using the **Adapter Design Pattern** to concurrently fetch and normalize listings from 4+ major platforms.
+- 🕷️ Engineered robust scraping mechanics using stealth configuration headers and **Firecrawl API's** structured extraction logic.
+- 🧹 Designed data processing stages utilizing exact and similarity-based deduplication algorithms and location filters.
+- 📊 Securely synchronized programmatic CSV outputs with cloud-hosted spreadsheets using the **Google Sheets API** (`gspread`).
+- ⚙️ Developed a configurable CLI engine driven by centralized **YAML** configuration files.
+- 📂 [GitHub Repository](https://github.com/sdn9300/gleaner-job-scout)
 
 <br/>
 
