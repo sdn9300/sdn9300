@@ -153,9 +153,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <h2 align="center">💻 Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,ts&perline=3" />
+    <img src="https://skillicons.dev/icons?i=python,postgres,ts,html&perline=4" />
   </a><br/>
-  <strong>Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; TypeScript</strong>
+  <strong>Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; HTML</strong>
 </p>
 
 <br/>
