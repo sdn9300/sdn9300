@@ -152,9 +152,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- LANGUAGES -->
 <h2 align="center">💻 Languages</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,postgres,ts&perline=3" />
+  </a><br/>
   <strong>Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; TypeScript</strong>
 </p>
 
@@ -163,16 +163,10 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- FRAMEWORKS & TOOLS -->
 <h2 align="center">🚀 Frameworks & Tools</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firecrawl-FF5A5F?style=flat-square&logo=firecrawl&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" /><br/>
-  <strong>Next.js &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; Git / GitHub &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; YAML</strong>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,streamlit,vercel,playwright,git,github,yaml&perline=8" />
+  </a><br/>
+  <strong>Next.js &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; YAML</strong>
 </p>
 
 <br/>
@@ -180,18 +174,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- LIBRARIES -->
 <h2 align="center">📚 Libraries</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prophet-008080?style=flat-square&logo=facebook&logoColor=white" />
-  <img src="https://img.shields.io/badge/mlxtend-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup4-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/gspread-green?style=flat-square&logo=google-sheets&logoColor=white" /><br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly,scikitlearn,scipy&perline=7" />
+  </a><br/>
   <strong>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; Matplotlib &nbsp;•&nbsp; Seaborn &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; SciPy &nbsp;•&nbsp; Prophet &nbsp;•&nbsp; mlxtend &nbsp;•&nbsp; Zod &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; gspread</strong>
 </p>
 
@@ -200,9 +185,6 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- AI ENGINEERING & DATABASES -->
 <h2 align="center">🤖 AI Engineering & Databases</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" /><br/>
   <strong>Groq API (LLM) &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB</strong>
 </p>
 <br/>
