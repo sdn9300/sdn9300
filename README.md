@@ -188,8 +188,11 @@ However, **analysis alone is passive**. To maximize its value, we must move from
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
-  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL</strong>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firecrawl_API-FF5A5F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=google-sheets&logoColor=white" /><br/>
+  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API</strong>
 </p>
 
 <br/>
@@ -197,8 +200,8 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- TOOLS & PLATFORMS -->
 <h2 align="center">🛠️ Tools & Platforms</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" /><br/>
-  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel</strong>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,yaml&perline=4" /><br/>
+  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; YAML</strong>
 </p>
 <br/>
 
