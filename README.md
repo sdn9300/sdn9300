@@ -149,33 +149,56 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--      TECHNOLOGIES & TOOLS (WITH LOGOS)      -->
-<!-- ═══════════════════════════════════════════ -->
-
-<h2 align="center">🛠️ Core Technologies & Tools</h2>
+<!-- LANGUAGES -->
+<h2 align="center">💻 Languages</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,ts,html,nextjs,tailwind,streamlit,playwright,vercel,git,github,yaml,numpy,pandas,scikitlearn,scipy,matplotlib,seaborn,plotly&perline=10" />
-  </a>
-</p>
-<p align="center">
-  <strong>Languages:</strong> Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; HTML <br/>
-  <strong>Frameworks & Tools:</strong> Next.js &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; YAML <br/>
-  <strong>Libraries:</strong> NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; SciPy &nbsp;•&nbsp; Matplotlib &nbsp;•&nbsp; Seaborn &nbsp;•&nbsp; Plotly
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=4" /><br/>
+  <strong>Python &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; HTML</strong>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ -->
-<!--      SPECIALIZED LIBRARIES & CONCEPTS       -->
-<!-- ═══════════════════════════════════════════ -->
-
-<h2 align="center">🧠 Specialized Libraries & Concepts (No Logos)</h2>
+<!-- FRAMEWORKS & RUNTIME -->
+<h2 align="center">🚀 Frameworks & Web Development</h2>
 <p align="center">
-  <strong>Libraries & APIs:</strong> Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; gspread &nbsp;•&nbsp; mlxtend <br/>
-  <strong>Generative AI & Data Analytics:</strong> Prompt Engineering &nbsp;•&nbsp; Structured JSON Pipelines &nbsp;•&nbsp; RAG &nbsp;•&nbsp; Guardrail Design &nbsp;•&nbsp; ETL Pipelines &nbsp;•&nbsp; Web Scraping &nbsp;•&nbsp; EDA &nbsp;•&nbsp; Data Cleaning &nbsp;•&nbsp; Statistical Analysis &nbsp;•&nbsp; Hypothesis Testing &nbsp;•&nbsp; A/B Testing &nbsp;•&nbsp; Data Storytelling <br/>
-  <strong>Machine Learning:</strong> Regression &nbsp;•&nbsp; Classification &nbsp;•&nbsp; Random Forest &nbsp;•&nbsp; Gradient Boosting &nbsp;•&nbsp; Model Evaluation &nbsp;•&nbsp; Time Series Forecasting &nbsp;•&nbsp; Association Rule Mining (Apriori)
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" /><br/>
+  <strong>Next.js &nbsp;•&nbsp; React &nbsp;•&nbsp; Tailwind CSS</strong>
+</p>
+
+<br/>
+
+<!-- DATA ANALYSIS & ML -->
+<h2 align="center">📊 Data Analysis & Machine Learning</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/>
+  <strong>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; Streamlit</strong>
+</p>
+
+<br/>
+
+<!-- AI ENGINEERING & DATABASES -->
+<h2 align="center">🤖 AI Engineering & Databases</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL</strong>
+</p>
+
+<br/>
+
+<!-- TOOLS & PLATFORMS -->
+<h2 align="center">🛠️ Tools & Platforms</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" /><br/>
+  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel</strong>
 </p>
 <br/>
 
