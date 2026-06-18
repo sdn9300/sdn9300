@@ -149,43 +149,33 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <br/>
 
-<!-- LANGUAGES -->
-<h2 align="center">💻 Languages</h2>
+<!-- ═══════════════════════════════════════════ -->
+<!--      TECHNOLOGIES & TOOLS (WITH LOGOS)      -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🛠️ Core Technologies & Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,postgres,ts,html&perline=4" />
-  </a><br/>
-  <strong>Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; HTML</strong>
+    <img src="https://skillicons.dev/icons?i=python,postgres,ts,html,nextjs,tailwind,streamlit,playwright,vercel,git,github,yaml,numpy,pandas,scikitlearn,scipy,matplotlib,seaborn,plotly&perline=10" />
+  </a>
+</p>
+<p align="center">
+  <strong>Languages:</strong> Python &nbsp;•&nbsp; SQL &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; HTML <br/>
+  <strong>Frameworks & Tools:</strong> Next.js &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; YAML <br/>
+  <strong>Libraries:</strong> NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; SciPy &nbsp;•&nbsp; Matplotlib &nbsp;•&nbsp; Seaborn &nbsp;•&nbsp; Plotly
 </p>
 
 <br/>
 
-<!-- FRAMEWORKS & TOOLS -->
-<h2 align="center">🚀 Frameworks & Tools</h2>
+<!-- ═══════════════════════════════════════════ -->
+<!--      SPECIALIZED LIBRARIES & CONCEPTS       -->
+<!-- ═══════════════════════════════════════════ -->
+
+<h2 align="center">🧠 Specialized Libraries & Concepts (No Logos)</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,tailwind,streamlit,vercel,playwright,git,github,yaml&perline=8" />
-  </a><br/>
-  <strong>Next.js &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; YAML</strong>
-</p>
-
-<br/>
-
-<!-- LIBRARIES -->
-<h2 align="center">📚 Libraries</h2>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn,plotly,scikitlearn,scipy&perline=7" />
-  </a><br/>
-  <strong>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; Matplotlib &nbsp;•&nbsp; Seaborn &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; SciPy &nbsp;•&nbsp; Prophet &nbsp;•&nbsp; mlxtend &nbsp;•&nbsp; Zod &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; gspread</strong>
-</p>
-
-<br/>
-
-<!-- AI ENGINEERING & DATABASES -->
-<h2 align="center">🤖 AI Engineering & Databases</h2>
-<p align="center">
-  <strong>Groq API (LLM) &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB</strong>
+  <strong>Libraries & APIs:</strong> Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; gspread &nbsp;•&nbsp; mlxtend <br/>
+  <strong>Generative AI & Data Analytics:</strong> Prompt Engineering &nbsp;•&nbsp; Structured JSON Pipelines &nbsp;•&nbsp; RAG &nbsp;•&nbsp; Guardrail Design &nbsp;•&nbsp; ETL Pipelines &nbsp;•&nbsp; Web Scraping &nbsp;•&nbsp; EDA &nbsp;•&nbsp; Data Cleaning &nbsp;•&nbsp; Statistical Analysis &nbsp;•&nbsp; Hypothesis Testing &nbsp;•&nbsp; A/B Testing &nbsp;•&nbsp; Data Storytelling <br/>
+  <strong>Machine Learning:</strong> Regression &nbsp;•&nbsp; Classification &nbsp;•&nbsp; Random Forest &nbsp;•&nbsp; Gradient Boosting &nbsp;•&nbsp; Model Evaluation &nbsp;•&nbsp; Time Series Forecasting &nbsp;•&nbsp; Association Rule Mining (Apriori)
 </p>
 <br/>
 
