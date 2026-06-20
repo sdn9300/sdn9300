@@ -72,11 +72,10 @@
 ## 👋 About Me
 
 <p align="center">
-  <strong>Data Scientist & AI Engineer transitioning deliberately <strong>from Literature to Data</strong>.<br/>
-  Currently completing an Executive PG Programme in Data Science & AI at <strong>IIT Roorkee</strong>,<br/>
-  working hands-on with Python, SQL, Machine Learning, and Generative AI systems.
+  <strong>Data Scientist & AI Engineer</strong> focused on transforming data into intelligent, production-ready systems.<br/>
+  Currently pursuing an Executive PG Programme in Data Science & AI at <strong>IIT Roorkee</strong>, while building end-to-end AI applications, analytics platforms, and automation workflows using Python, SQL, Machine Learning, and Generative AI.<br/>
+  My interdisciplinary background enables me to bridge technical complexity with clear communication, translating insights into solutions that create measurable business value.
 </p>
-
 <p align="center">
   <em>My background in academic writing and language analysis gives me a unique edge:<br/>
   translating complex model outputs into clear, compelling narratives that stakeholders understand.</em>
