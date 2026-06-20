@@ -152,8 +152,8 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- LANGUAGES -->
 <h2 align="center">💻 Languages</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html&perline=4" /><br/>
-  <strong>Python &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; HTML</strong>
+  <img src="https://skillicons.dev/icons?i=python,typescript,r,html&perline=4" /><br/>
+  <strong>Python &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; R &nbsp;•&nbsp; HTML</strong>
 </p>
 
 <br/>
