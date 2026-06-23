@@ -180,7 +180,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <br/>
 
 <!-- AI ENGINEERING & DATABASES -->
-<h2 align="center">🤖 AI Engineering & Databases</h2>
+<h2 align="center">🤖 AI Engineering, Databases & APIs</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
@@ -188,11 +188,13 @@ However, **analysis alone is passive**. To maximize its value, we must move from
   <img src="https://img.shields.io/badge/Zod-3068B2?style=flat-square&logo=zod&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Firecrawl_API-FF5A5F?style=flat-square" />
   <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
   <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" /><br/>
-  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML</strong>
+  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Redis &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML</strong>
 </p>
 
 <br/>
@@ -200,8 +202,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- TOOLS & PLATFORMS -->
 <h2 align="center">🛠️ Tools & Platforms</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" /><br/>
-  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel</strong>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
+  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Prometheus</strong>
 </p>
 <br/>
 
@@ -288,6 +291,20 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 📊 Securely synchronized programmatic CSV outputs with cloud-hosted spreadsheets using the **Google Sheets API** (`gspread`).
 - ⚙️ Developed a configurable CLI engine driven by centralized **YAML** configuration files.
 - 📂 [GitHub Repository](https://github.com/sdn9300/gleaner-job-scout)
+
+<br/>
+
+### ✉️ [Overture Outreach](https://frontend-three-azure-97.vercel.app/) — AI-Powered Cold Email Outreach Platform
+
+> *Architected and deployed an end-to-end full-stack AI web application.*
+> 
+> **Stack:** Next.js &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; Python &nbsp;•&nbsp; Gmail OAuth2 API &nbsp;•&nbsp; Groq API (LLaMA 3.3 70B) &nbsp;•&nbsp; Prometheus &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Vercel
+
+- ✉️ Architected and implemented a modular backend outreach engine using **Python** that orchestrates a dual-stage execution pipeline — HTML formatting followed by dynamic tone polishing via the **Groq LLM API**.
+- 🔐 Configured secure **Google OAuth2** flow handling using Google Client APIs to obtain authorization tokens for rate-safe email delivery via the **Gmail API**.
+- ⏳ Implemented asynchronous background execution with a **Redis queue** system and instrumentation via a **Prometheus** metrics server.
+- 📊 Designed a responsive **Next.js** frontend dashboard using **TypeScript** and **Tailwind CSS**, deployed on **Vercel**, to display run histories, contact filters, and live mail preview.
+- 📂 [GitHub Repository](https://github.com/sdn9300/Overture-Outreach) &nbsp;|&nbsp; 🔗 [Live App](https://frontend-three-azure-97.vercel.app/)
 
 <br/>
 
