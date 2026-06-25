@@ -160,8 +160,11 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- FRAMEWORKS & RUNTIME -->
 <h2 align="center">🚀 Frameworks & Web Development</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&perline=3" /><br/>
-  <strong>Next.js &nbsp;•&nbsp; React &nbsp;•&nbsp; Tailwind CSS</strong>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,css&perline=4" />
+  <img src="https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lucide_React-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/PapaParse-grey?style=flat-square" /><br/>
+  <strong>Next.js &nbsp;•&nbsp; React &nbsp;•&nbsp; Tailwind CSS &nbsp;•&nbsp; Vanilla CSS &nbsp;•&nbsp; Recharts &nbsp;•&nbsp; Lucide React &nbsp;•&nbsp; PapaParse</strong>
 </p>
 
 <br/>
@@ -173,8 +176,12 @@ However, **analysis alone is passive**. To maximize its value, we must move from
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /><br/>
-  <strong>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; Streamlit</strong>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/lme4-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/testthat-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/StatsBomb-lightgrey?style=flat-square" />
+  <img src="https://img.shields.io/badge/FBref-green?style=flat-square" /><br/>
+  <strong>NumPy &nbsp;•&nbsp; Pandas &nbsp;•&nbsp; scikit-learn &nbsp;•&nbsp; Plotly &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; lme4 (GLMM) &nbsp;•&nbsp; testthat &nbsp;•&nbsp; StatsBomb &nbsp;•&nbsp; FBref</strong>
 </p>
 
 <br/>
@@ -193,8 +200,10 @@ However, **analysis alone is passive**. To maximize its value, we must move from
   <img src="https://img.shields.io/badge/BeautifulSoup4-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Firecrawl_API-FF5A5F?style=flat-square" />
   <img src="https://img.shields.io/badge/Google_Sheets_API-34A853?style=flat-square&logo=google-sheets&logoColor=white" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" /><br/>
-  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Redis &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML</strong>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meteostat_API-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open--Elevation_API-green?style=flat-square" /><br/>
+  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Redis &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML &nbsp;•&nbsp; Meteostat API &nbsp;•&nbsp; Open-Elevation API</strong>
 </p>
 
 <br/>
@@ -305,6 +314,21 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - ⏳ Implemented asynchronous background execution with a **Redis queue** system and instrumentation via a **Prometheus** metrics server.
 - 📊 Designed a responsive **Next.js** frontend dashboard using **TypeScript** and **Tailwind CSS**, deployed on **Vercel**, to display run histories, contact filters, and live mail preview.
 - 📂 [GitHub Repository](https://github.com/sdn9300/Overture-Outreach) &nbsp;|&nbsp; 🔗 [Live App](https://frontend-three-azure-97.vercel.app/)
+
+<br/>
+
+### ⚽ [FIFA WC 2026 Altitude Shield](https://github.com/sdn9300/FIFA-WC-2026-altitude-shield) — Sports Analytics & Environmental Risk Platform
+
+> *Built an end-to-end sports analytics and environmental risk pipeline for FIFA WC 2026 venues.*
+> 
+> **Stack:** R &nbsp;•&nbsp; Python &nbsp;•&nbsp; Next.js 15 &nbsp;•&nbsp; TypeScript &nbsp;•&nbsp; Recharts &nbsp;•&nbsp; Lucide React &nbsp;•&nbsp; Vanilla CSS &nbsp;•&nbsp; PapaParse &nbsp;•&nbsp; StatsBomb &nbsp;•&nbsp; FBref &nbsp;•&nbsp; Meteostat API &nbsp;•&nbsp; Open-Elevation API &nbsp;•&nbsp; lme4 (GLMM) &nbsp;•&nbsp; testthat
+
+- ⚽ Built an end-to-end sports analytics pipeline to quantify the physiological impacts of altitude ($>1,000$m) and heat stress ($>28^\circ$C) on elite football players at FIFA WC 2026 host venues.
+- 🌡️ Designed a multi-stage data engine in Python and R that geocodes venues, retrieves elevation via Open-Elevation API, fetches historical weather via Meteostat API, and engineers spatial-temporal features (Elo ratings, cumulative travel, and rest intervals).
+- 📈 Fitted Negative Binomial Generalised Linear Mixed Models (GLMM) using R (`lme4`) to determine factors influencing 2nd-half goals conceded, establishing risk scores and discovering physiological "altitude immunity" in native high-altitude teams.
+- 🖥️ Developed an interactive Next.js 15 (TypeScript) dark-themed dashboard using custom Vanilla CSS (glassmorphism) and Recharts with client-side CSV parsing via PapaParse for real-time venue risk simulation.
+- 🧪 Implemented automated unit tests using R's `testthat` package to validate weather ingestion, elevation bounds, and master dataset schema integrity.
+- 📂 [GitHub Repository](https://github.com/sdn9300/FIFA-WC-2026-altitude-shield)
 
 <br/>
 
