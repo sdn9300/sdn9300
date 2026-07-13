@@ -231,12 +231,12 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <p align="center">
   <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sdn9300&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.vercel.app?user=sdn9300&amp;theme=tokyonight&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
   <!-- METRICS + GRADE -->
-  <img src="https://github-readme-stats.vercel.app/api?username=sdn9300&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="75%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sdn9300&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true&amp;include_all_commits=true&amp;rank_icon=github" width="75%" alt="GitHub Stats" />
 </p>
 
 <br/>
@@ -245,7 +245,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <p align="center">
   <!-- TOP LANGUAGES -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdn9300&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&hide=jupyter%20notebook" width="75%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sdn9300&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact&amp;langs_count=8&amp;hide=jupyter%20notebook" width="75%" alt="Top Languages" />
 </p>
 
 <br/>
