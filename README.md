@@ -231,7 +231,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <p align="center">
   <!-- STREAK STATS -->
-  <img src="https://streak-stats.demolab.com?user=sdn9300&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="75%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=sdn9300&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
