@@ -86,7 +86,7 @@
 <table align="center">
   <tr>
     <td>🔭 Currently building</td>
-    <td><strong>Overture — A Smart Cold Email Outreach Agent</strong></td>
+    <td><strong>Conductor Agent — 10-Component LangGraph Multi-Agent Orchestrator</strong></td>
   </tr>
   <tr>
     <td>🌱 Currently exploring</td>
@@ -189,6 +189,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- AI ENGINEERING & DATABASES -->
 <h2 align="center">🤖 AI Engineering, Databases & APIs</h2>
 <p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logo=databricks&logoColor=white" />
@@ -203,7 +206,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
   <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
   <img src="https://img.shields.io/badge/Meteostat_API-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open--Elevation_API-green?style=flat-square" /><br/>
-  <strong>Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Redis &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML &nbsp;•&nbsp; Meteostat API &nbsp;•&nbsp; Open-Elevation API</strong>
+  <strong>LangGraph &nbsp;•&nbsp; LangChain &nbsp;•&nbsp; Pydantic v2 &nbsp;•&nbsp; Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Redis &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML &nbsp;•&nbsp; Meteostat API &nbsp;•&nbsp; Open-Elevation API</strong>
 </p>
 
 <br/>
@@ -211,9 +214,10 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- TOOLS & PLATFORMS -->
 <h2 align="center">🛠️ Tools & Platforms</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vercel&perline=3" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /><br/>
-  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Prometheus</strong>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,vercel&perline=5" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" /><br/>
+  <strong>Git &nbsp;•&nbsp; GitHub &nbsp;•&nbsp; Docker &nbsp;•&nbsp; Kubernetes &nbsp;•&nbsp; Vercel &nbsp;•&nbsp; Prometheus &nbsp;•&nbsp; Grafana</strong>
 </p>
 <br/>
 
@@ -258,6 +262,21 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <!-- ═══════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
+
+<br/>
+
+### 🎭 [Conductor Agent](https://github.com/sdn9300/conductor-agent) — Autonomous 10-Component Multi-Agent Job Search Orchestrator
+
+> *Architected and engineered the central coordination brain and state machine for an autonomous job application ecosystem.*
+> 
+> **Stack:** Python 3.12+ &nbsp;•&nbsp; LangGraph (StateGraph) &nbsp;•&nbsp; Pydantic v2 &nbsp;•&nbsp; Prometheus &nbsp;•&nbsp; Grafana &nbsp;•&nbsp; Docker &nbsp;•&nbsp; Kubernetes &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Groq LLM API
+
+- 🧠 **LangGraph StateGraph Workflow**: Built a resilient 10-component graph uniting multi-board job discovery (`Harvester`), company intelligence synthesis (`Research Agent`), resume tailoring (`AlignResume`), cold email outreach (`Overture`), portal form application (`PDF Auto-Apply`), and outcome analysis (`Sentiment Classifier`).
+- 🛡️ **Human-in-the-Loop Approval Gate (ADR-6)**: Enforced a zero-bypass candidate authorization checkpoint before executing outbound emails or form submissions.
+- ⚡ **Deduplication & Rejection Cooldown Loops (EC-06 & EC-07)**: Engineered automated URL/title deduplication and a **30-day company rejection cooldown feedback loop** to suppress redundant outreach and preserve candidate reputation.
+- 🚦 **Dynamic Multi-Channel Routing**: Built automatic dispatch routing directing recruiter contact emails to Overture and careers portal links (Greenhouse, Lever, Workday) to PDF Auto-Apply.
+- 📊 **Enterprise Observability & Deployment**: Hardened with multi-stage Docker containerization, Kubernetes Deployments & CronJobs, and real-time Prometheus (`conductor_*`) and Grafana monitoring.
+- 📂 [GitHub Repository](https://github.com/sdn9300/conductor-agent)
 
 <br/>
 
