@@ -370,6 +370,28 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <br/>
 
+<!-- ═══════════════════════════════════════════ -->
+<!--    ADDITIONAL AUTONOMOUS AGENTS & SYSTEMS   -->
+<!-- ═══════════════════════════════════════════ -->
+
+## 🛠️ Additional Autonomous Systems & Agent Tooling
+
+<br/>
+
+### 📧 [MCP Chief of Staff](https://github.com/sdn9300/mcp-chief-of-staff) — Autonomous Email Triage, Persona Tone Drafting & Calendar Assistant
+
+> *Human-in-the-loop executive assistant pipeline automating email triage, context-aware draft generation, calendar scheduling, and audit logging.*
+> 
+> **Stack:** Python 3.12+ &nbsp;•&nbsp; Google Gemini (`google-genai`) &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gmail OAuth2 API &nbsp;•&nbsp; Google Calendar &nbsp;•&nbsp; Pydantic
+
+- 🧠 **Multi-Layer Priority Triage**: Classifies high-volume inbox threads into `URGENT`, `NEEDS REPLY`, `FYI`, and `IGNORE` with heuristic failover resilience.
+- ✍️ **Authentic Voice & Context Synthesis**: Ingests user tone profiles, writing quirks, and few-shot samples to draft concise, persona-aligned replies adhering to the One-Ask Rule and zero corporate filler.
+- 🛡️ **Human Approval Gate & Real Actions**: Strict human verification checkpoint before executing live Gmail sends or Google Calendar meeting bookings.
+- 📜 **Append-Only Auditing & Proof of Work**: Records all system decisions to `action_log.json` and exports standalone `.md` and styled `.html` audit reports.
+- 📂 [GitHub Repository](https://github.com/sdn9300/mcp-chief-of-staff)
+
+<br/>
+
 ---
 
 <!-- ═══════════════════════════════════════════ -->
