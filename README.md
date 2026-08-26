@@ -191,6 +191,8 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 <p align="center">
   <img src="https://img.shields.io/badge/LangGraph-FF6F00?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/SentenceTransformers-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-8A2BE2?style=flat-square" />
   <img src="https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white" />
   <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white" />
@@ -206,7 +208,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
   <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" />
   <img src="https://img.shields.io/badge/Meteostat_API-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Open--Elevation_API-green?style=flat-square" /><br/>
-  <strong>LangGraph &nbsp;•&nbsp; LangChain &nbsp;•&nbsp; Pydantic v2 &nbsp;•&nbsp; Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Redis &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML &nbsp;•&nbsp; Meteostat API &nbsp;•&nbsp; Open-Elevation API</strong>
+  <strong>LangGraph &nbsp;•&nbsp; LangChain &nbsp;•&nbsp; SentenceTransformers &nbsp;•&nbsp; Model Context Protocol (MCP) &nbsp;•&nbsp; Pydantic v2 &nbsp;•&nbsp; Groq API &nbsp;•&nbsp; FAISS &nbsp;•&nbsp; ChromaDB &nbsp;•&nbsp; Zod &nbsp;•&nbsp; Playwright &nbsp;•&nbsp; SQL &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Redis &nbsp;•&nbsp; BeautifulSoup4 &nbsp;•&nbsp; Firecrawl API &nbsp;•&nbsp; Google Sheets API &nbsp;•&nbsp; YAML &nbsp;•&nbsp; Meteostat API &nbsp;•&nbsp; Open-Elevation API</strong>
 </p>
 
 <br/>
@@ -277,6 +279,23 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 🚦 **Dynamic Multi-Channel Routing**: Built automatic dispatch routing directing recruiter contact emails to Overture and careers portal links (Greenhouse, Lever, Workday) to PDF Auto-Apply.
 - 📊 **Enterprise Observability & Deployment**: Hardened with multi-stage Docker containerization, Kubernetes Deployments & CronJobs, and real-time Prometheus (`conductor_*`) and Grafana monitoring.
 - 📂 [GitHub Repository](https://github.com/sdn9300/conductor-agent)
+
+<br/>
+
+### 🧠 [Synapse-AI](https://github.com/sdn9300/Synapse-AI) — Local-First Personal AI Second Brain & Knowledge Graph RAG System
+
+> *Architected an autonomous Personal Knowledge Management (PKM) engine and Karpathy-pattern LLM Wiki with interactive Graph-RAG visualization.*
+> 
+> **Stack:** Python 3.10+ &nbsp;•&nbsp; Groq API (LLaMA 3.3 70B & 3.1 8B) &nbsp;•&nbsp; SentenceTransformers &nbsp;•&nbsp; Vis-Network &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Model Context Protocol (MCP) &nbsp;•&nbsp; PyPDF &nbsp;•&nbsp; BeautifulSoup4
+
+- 🔄 **Autonomous 4-Stage Agent Loop**: Engineered an unattended maintenance cycle (`Ingest` → `Link` → `Lint` → `Digest`) that continuously classifies incoming text, web links, Obsidian inbox notes, and PDFs using the **PARA Framework** (*Projects, Areas, Resources, Archives*).
+- 🕸️ **Local Vector Auto-Linking & Knowledge Graph**: Computed 384-dimensional dense vector embeddings (`all-MiniLM-L6-v2`) locally to calculate cosine similarity ($\ge 0.75$) and dynamically generate bidirectional `[[wikilinks]]`, visualized via an interactive force-directed **Vis-Network** canvas with Barnes-Hut physics.
+- 🔍 **Grounded RAG Q&A Engine**: Built a natural-language search engine over curated wiki notes with inline source citations (`[note-id]`) and temperature-controlled Groq LLM synthesis with defensive model failover.
+- 🔌 **Model Context Protocol (MCP) Tool Server**: Developed an MCP-compliant tool server exposing custom tools (`search_second_brain`, `get_wiki_page`, `ingest_raw_content`) for multi-agent orchestrator integrations (Conductor / Antigravity).
+- 🧪 **Automated Testing & Vault Health Auditing**: Built `lint.py` for broken link and orphan page detection, `digest.py` for weekly executive LLM summaries, and an automated 12-test unit test suite (`test_secondself.py`).
+- 📂 [GitHub Repository](https://github.com/sdn9300/Synapse-AI)
+
+<br/>
 
 <br/>
 
