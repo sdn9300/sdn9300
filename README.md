@@ -273,7 +273,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 > 
 > **Stack:** Python 3.12+ &nbsp;•&nbsp; LangGraph (StateGraph) &nbsp;•&nbsp; Pydantic v2 &nbsp;•&nbsp; Prometheus &nbsp;•&nbsp; Grafana &nbsp;•&nbsp; Docker &nbsp;•&nbsp; Kubernetes &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; Groq LLM API
 
-- 🧠 **LangGraph StateGraph Workflow**: Built a resilient 10-component graph uniting multi-board job discovery (`Harvester`), company intelligence synthesis (`Research Agent`), resume tailoring (`AlignResume`), cold email outreach (`Overture`), portal form application (`PDF Auto-Apply`), and outcome analysis (`Sentiment Classifier`).
+- 🧠 **LangGraph StateGraph Workflow**: Built a resilient 10-component graph uniting multi-board job discovery (`Gleaner`), company intelligence synthesis (`Research Agent`), resume tailoring (`AlignResume`), cold email outreach (`Overture`), portal form application (`PDF Auto-Apply`), and outcome analysis (`Sentiment Classifier`).
 - 🛡️ **Human-in-the-Loop Approval Gate (ADR-6)**: Enforced a zero-bypass candidate authorization checkpoint before executing outbound emails or form submissions.
 - ⚡ **Deduplication & Rejection Cooldown Loops (EC-06 & EC-07)**: Engineered automated URL/title deduplication and a **30-day company rejection cooldown feedback loop** to suppress redundant outreach and preserve candidate reputation.
 - 🚦 **Dynamic Multi-Channel Routing**: Built automatic dispatch routing directing recruiter contact emails to Overture and careers portal links (Greenhouse, Lever, Workday) to PDF Auto-Apply.
@@ -297,7 +297,19 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <br/>
 
-<br/>
+### 🧭 [CareerHelm](https://github.com/sdn9300/careerhelm) — Autonomous Career Radar & Market Opportunity Engine
+
+> *Architected an autonomous scheduled market intelligence engine, deterministic fit scorer, and opportunity cost radar for the CareerOS ecosystem.*
+> 
+> **Stack:** Python 3.11+ &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Model Context Protocol (FastMCP) &nbsp;•&nbsp; PostgreSQL (Hosted) &nbsp;•&nbsp; SQLite &nbsp;•&nbsp; GitHub Actions &nbsp;•&nbsp; Pydantic v2 &nbsp;•&nbsp; Google Gemini 2.5 Structured Output
+
+- 🔄 **Autonomous Scheduled Loop**: Deployed a daily unattended cron cycle (06:00 AM IST via GitHub Actions) executing job ingestion, deduplication, schema-gated LLM requirement extraction, and mathematical fit scoring within an idempotent 10-minute runtime budget.
+- 📐 **Zero-LLM Deterministic Fit Scorer**: Engineered a pure, auditable scoring algorithm combining weighted canonical skill matching (70%) and recency half-life decay (30%), guaranteeing deterministic, reproducible fit scores in $[0, 100]$ without LLM hallucinations in the decision path.
+- 📊 **Opportunity Cost Skill Gap Engine**: Formulated a mathematical opportunity cost metric aggregating missed job scores across blocked listings to dynamically rank high-leverage skills for career trajectory optimization.
+- 🗄️ **Hosted Postgres & Local SQLite Dual-Backend**: Implemented an automated dual-backend storage layer with runtime query dialect translation (`?` vs `%s`, `INSERT OR IGNORE` vs `ON CONFLICT DO NOTHING`) and CLI migration tools (`--migrate`, `--check`).
+- 🩺 **System Invariant Health Evaluator**: Built real-time health diagnostic checks (`health.py`) auditing database latency, listing freshness ($\le 3$ days), cadence stability, and verifier verdicts.
+- 🔌 **FastMCP Tool Mesh & Interactive Streamlit Radar**: Exposed 3 standard MCP tools (`run_discovery_cycle`, `get_market_insights`, `query_market_data`) and deployed an interactive dark-themed Streamlit dashboard with a natural-language *"Ask Your Data"* query interface.
+- 📂 [GitHub Repository](https://github.com/sdn9300/careerhelm)
 
 ### 🌟 [AlignResume](https://align-resume-beta.vercel.app/) — AI-Powered Resume Optimization Platform
 
@@ -367,28 +379,6 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 🖥️ Developed an interactive Next.js 15 (TypeScript) dark-themed dashboard using custom Vanilla CSS (glassmorphism) and Recharts with client-side CSV parsing via PapaParse for real-time venue risk simulation.
 - 🧪 Implemented automated unit tests using R's `testthat` package to validate weather ingestion, elevation bounds, and master dataset schema integrity.
 - 📂 [GitHub Repository](https://github.com/sdn9300/FIFA-WC-2026-altitude-shield)
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ -->
-<!--    ADDITIONAL AUTONOMOUS AGENTS & SYSTEMS   -->
-<!-- ═══════════════════════════════════════════ -->
-
-## 🛠️ Additional Autonomous Systems & Agent Tooling
-
-<br/>
-
-### 📧 [MCP Chief of Staff](https://github.com/sdn9300/mcp-chief-of-staff) — Autonomous Email Triage, Persona Tone Drafting & Calendar Assistant
-
-> *Human-in-the-loop executive assistant pipeline automating email triage, context-aware draft generation, calendar scheduling, and audit logging.*
-> 
-> **Stack:** Python 3.12+ &nbsp;•&nbsp; Google Gemini (`google-genai`) &nbsp;•&nbsp; Streamlit &nbsp;•&nbsp; Gmail OAuth2 API &nbsp;•&nbsp; Google Calendar &nbsp;•&nbsp; Pydantic
-
-- 🧠 **Multi-Layer Priority Triage**: Classifies high-volume inbox threads into `URGENT`, `NEEDS REPLY`, `FYI`, and `IGNORE` with heuristic failover resilience.
-- ✍️ **Authentic Voice & Context Synthesis**: Ingests user tone profiles, writing quirks, and few-shot samples to draft concise, persona-aligned replies adhering to the One-Ask Rule and zero corporate filler.
-- 🛡️ **Human Approval Gate & Real Actions**: Strict human verification checkpoint before executing live Gmail sends or Google Calendar meeting bookings.
-- 📜 **Append-Only Auditing & Proof of Work**: Records all system decisions to `action_log.json` and exports standalone `.md` and styled `.html` audit reports.
-- 📂 [GitHub Repository](https://github.com/sdn9300/mcp-chief-of-staff)
 
 <br/>
 
