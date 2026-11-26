@@ -118,7 +118,7 @@
 
 <br/>
 
-​My background in literature trained me to analyze complex narratives, decode underlying patterns, and critique established structures. When I **transitioned into Data Science**, I recognized that **data is simply another medium for mapping human behavior**—a dense narrative requiring precise interpretation.
+My background in literature trained me to analyze complex narratives, decode underlying patterns, and critique established structures. When I **transitioned into Data Science**, I recognized that **data is simply another medium for mapping human behavior**—a dense narrative requiring precise interpretation.
 
 However, **analysis alone is passive**. To maximize its value, we must move from **interpreting data to building the systems that operationalize it.** As a **Full-Stack AI Engineer**, my philosophy centers on **bridging data discovery with robust software architecture**. I don't just want to **forecast outcomes; I want to engineer the infrastructure that drives them.**
 
@@ -128,9 +128,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 > A predictive model confined to a Jupyter Notebook is an **isolated asset**. True value is realized when **algorithms are integrated into production pipelines, transforming static insights into active, scalable software solutions**.
 
-### ​🏗️ Systems Thinking
+### 🏗️ Systems Thinking
 
-> ​Building accurate models is only part of the challenge. Real-world AI creates value when it is supported by **reliable infrastructure, robust evaluation, and scalable workflows**. I view systems thinking as the discipline that transforms data science experiments into dependable enterprise applications.
+> Building accurate models is only part of the challenge. Real-world AI creates value when it is supported by **reliable infrastructure, robust evaluation, and scalable workflows**. I view systems thinking as the discipline that transforms data science experiments into dependable enterprise applications.
 
 ### ⚙️ Pragmatic Innovation
 
@@ -267,6 +267,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <br/>
 
+<!-- [COMMENTED OUT PROJECT: Conductor Agent]
 ### 🎭 [Conductor Agent](https://github.com/sdn9300/conductor-agent) — Autonomous 10-Component Multi-Agent Job Search Orchestrator
 
 > *Architected and engineered the central coordination brain and state machine for an autonomous job application ecosystem.*
@@ -281,7 +282,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 📂 [GitHub Repository](https://github.com/sdn9300/conductor-agent)
 
 <br/>
+-->
 
+<!-- [COMMENTED OUT PROJECT: Synapse-AI]
 ### 🧠 [Synapse-AI](https://github.com/sdn9300/Synapse-AI) — Local-First Personal AI Second Brain & Knowledge Graph RAG System
 
 > *Architected an autonomous Personal Knowledge Management (PKM) engine and Karpathy-pattern LLM Wiki with interactive Graph-RAG visualization.*
@@ -296,7 +299,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 📂 [GitHub Repository](https://github.com/sdn9300/Synapse-AI)
 
 <br/>
+-->
 
+<!-- [COMMENTED OUT PROJECT: CareerHelm]
 ### 🧭 [CareerHelm](https://github.com/sdn9300/careerhelm) — Autonomous Career Radar & Market Opportunity Engine
 
 > *Architected an autonomous scheduled market intelligence engine, deterministic fit scorer, and opportunity cost radar for the CareerOS ecosystem.*
@@ -310,6 +315,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 🩺 **System Invariant Health Evaluator**: Built real-time health diagnostic checks (`health.py`) auditing database latency, listing freshness ($\le 3$ days), cadence stability, and verifier verdicts.
 - 🔌 **FastMCP Tool Mesh & Interactive Streamlit Radar**: Exposed 3 standard MCP tools (`run_discovery_cycle`, `get_market_insights`, `query_market_data`) and deployed an interactive dark-themed Streamlit dashboard with a natural-language *"Ask Your Data"* query interface.
 - 📂 [GitHub Repository](https://github.com/sdn9300/careerhelm)
+-->
 
 ### 🌟 [AlignResume](https://align-resume-beta.vercel.app/) — AI-Powered Resume Optimization Platform
 
@@ -353,6 +359,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 
 <br/>
 
+<!-- [COMMENTED OUT PROJECT: Overture Outreach]
 ### ✉️ [Overture Outreach](https://frontend-three-azure-97.vercel.app/) — AI-Powered Cold Email Outreach Platform
 
 > *Architected and deployed an end-to-end full-stack AI web application.*
@@ -366,7 +373,9 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 📂 [GitHub Repository](https://github.com/sdn9300/Overture-Outreach) &nbsp;|&nbsp; 🔗 [Live App](https://frontend-three-azure-97.vercel.app/)
 
 <br/>
+-->
 
+<!-- [COMMENTED OUT PROJECT: FIFA WC 2026 Altitude Shield]
 ### ⚽ [FIFA WC 2026 Altitude Shield](https://github.com/sdn9300/FIFA-WC-2026-altitude-shield) — Sports Analytics & Environmental Risk Platform
 
 > *Built an end-to-end sports analytics and environmental risk pipeline for FIFA WC 2026 venues.*
@@ -381,6 +390,7 @@ However, **analysis alone is passive**. To maximize its value, we must move from
 - 📂 [GitHub Repository](https://github.com/sdn9300/FIFA-WC-2026-altitude-shield)
 
 <br/>
+-->
 
 ---
 
